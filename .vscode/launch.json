@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SimilarProductsApplication<similar-products>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.miguixinfo.ams.backend.test.similar_products.SimilarProductsApplication",
+            "projectName": "similar-products",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
